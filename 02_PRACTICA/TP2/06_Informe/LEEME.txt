@@ -1,0 +1,13 @@
+06_Informe
+==========
+Aquí va el INFORME FINAL del trabajo práctico, que debe incluir:
+
+- El CSV de puntos de referencia recolectados en CEO.
+- El enlace a los scripts de GEE (o los archivos .js).
+- Los mapas LULC finales (GeoTIFF) y su comparación (Sentinel-2 vs Embeddings,
+  y 2024 vs 2025).
+- Las matrices de confusión y la precisión general de cada modelo.
+- Una discusión sobre las clases que más se confundieron y por qué.
+- Las 13 capturas de pantalla (carpeta Capturas_TP2).
+
+Esta carpeta arranca vacía: se completa con el informe del alumno.

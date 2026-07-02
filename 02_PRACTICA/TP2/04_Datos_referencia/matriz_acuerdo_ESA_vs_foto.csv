@@ -1,0 +1,15 @@
+ESA \ Foto,Cobertura arbórea,Matorral/arbustal,Pastizal/herbáceas,Cultivos,Construido/urbano,Suelo desnudo/veg. escasa,Cuerpos de agua permanentes,Humedal herbáceo,Total ESA,Acuerdo productor %
+Cobertura arbórea,21,3,8,0,9,0,0,0,41,51.2
+Matorral/arbustal,1,14,8,0,3,6,0,0,32,43.8
+Pastizal/herbáceas,0,19,14,3,0,8,0,0,44,31.8
+Cultivos,1,5,7,20,0,2,0,0,35,57.1
+Construido/urbano,3,1,5,0,27,3,1,0,40,67.5
+Suelo desnudo/veg. escasa,0,5,5,0,7,18,0,0,35,51.4
+Cuerpos de agua permanentes,4,2,0,0,2,1,25,3,37,67.6
+Humedal herbáceo,2,14,13,0,0,6,0,2,37,5.4
+Total Foto,32,63,60,23,48,44,26,5,301,
+Acuerdo usuario %,65.6,22.2,23.3,87.0,56.2,40.9,96.2,40.0,,
+
+Acuerdo global %,46.8
+Kappa,0.392
+Puntos usados,301

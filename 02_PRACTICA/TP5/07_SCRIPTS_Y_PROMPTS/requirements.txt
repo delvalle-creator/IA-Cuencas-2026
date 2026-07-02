@@ -1,0 +1,10 @@
+# Dependencias para los scripts standalone (VSCode / consola del sistema)
+# Instalar con: pip install -r requirements.txt
+rasterio
+pyproj
+pysheds
+numpy
+scipy
+matplotlib
+pandas
+pywin32 ; platform_system == "Windows"   # solo para P4 (HEC-RAS Controller)

@@ -1,0 +1,12 @@
+value,class_en,class_es,color_hex
+10,Tree cover,Cobertura arbórea,#006400
+20,Shrubland,Matorral / arbustal,#ffbb22
+30,Grassland,Pastizal / herbáceas,#ffff4c
+40,Cropland,Cultivos,#f096ff
+50,Built-up,Construido / urbano,#fa0000
+60,Bare / sparse vegetation,Suelo desnudo o vegetación escasa,#b4b4b4
+70,Snow and ice,Nieve y hielo,#f0f0f0
+80,Permanent water bodies,Cuerpos de agua permanentes,#0064c8
+90,Herbaceous wetland,Humedal herbáceo,#0096a0
+95,Mangroves,Manglares,#00cf75
+100,Moss and lichen,Musgos y líquenes,#fae6a0

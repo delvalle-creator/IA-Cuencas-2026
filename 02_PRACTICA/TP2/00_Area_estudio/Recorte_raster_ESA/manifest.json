@@ -1,0 +1,38 @@
+{
+  "project": "Recorte ESA WorldCover para AOI Naposta Grande",
+  "created_utc": "2026-06-15",
+  "aoi": {
+    "source_file": "AOI_Naposta_Grande_shp.zip",
+    "feature_count": 1,
+    "crs": "EPSG:4326",
+    "bounds_lonlat": [
+      -62.34263888888889,
+      -38.79541666666667,
+      -61.947361111111114,
+      -38.08375
+    ],
+    "estimated_utm_crs_for_area_stats": "EPSG:32720",
+    "area_km2_utm_estimate": 1403.9655859042962
+  },
+  "esa_worldcover": {
+    "selected_product": "ESA WorldCover 10 m 2021 v200",
+    "layer": "Map",
+    "tile_id": "S39W063",
+    "tile_bounds_lonlat": [
+      -63,
+      -39,
+      -60,
+      -36
+    ],
+    "source_url_template_used_by_script": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_{tile}_Map.tif",
+    "source_url_for_this_aoi": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S39W063_Map.tif",
+    "license": "CC-BY-4.0",
+    "note": "El AOI cae completamente dentro de este único tile de 3 x 3 grados."
+  },
+  "outputs_expected_when_script_runs": [
+    "outputs/ESA_WorldCover_2021_v200_AOI_Naposta_Grande_clip_EPSG4326.tif",
+    "outputs/ESA_WorldCover_2021_v200_AOI_Naposta_Grande_clip_EPSG32720_10m.tif",
+    "outputs/ESA_WorldCover_2021_v200_AOI_Naposta_Grande_area_stats.csv",
+    "outputs/ESA_WorldCover_2021_v200_AOI_Naposta_Grande_area_stats.json"
+  ]
+}

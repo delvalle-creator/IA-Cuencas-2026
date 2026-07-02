@@ -1,0 +1,25 @@
+{
+  "overall": 0.4684385382059801,
+  "kappa": 0.39208038272680223,
+  "n": 301,
+  "per_class_prod": {
+    "Cobertura arbórea": 0.5121951219512195,
+    "Matorral/arbustal": 0.4375,
+    "Pastizal/herbáceas": 0.3181818181818182,
+    "Cultivos": 0.5714285714285714,
+    "Construido/urbano": 0.675,
+    "Suelo desnudo/veg. escasa": 0.5142857142857142,
+    "Cuerpos de agua permanentes": 0.6756756756756757,
+    "Humedal herbáceo": 0.05405405405405406
+  },
+  "per_class_user": {
+    "Cobertura arbórea": 0.65625,
+    "Matorral/arbustal": 0.2222222222222222,
+    "Pastizal/herbáceas": 0.23333333333333334,
+    "Cultivos": 0.8695652173913043,
+    "Construido/urbano": 0.5625,
+    "Suelo desnudo/veg. escasa": 0.4090909090909091,
+    "Cuerpos de agua permanentes": 0.9615384615384616,
+    "Humedal herbáceo": 0.4
+  }
+}

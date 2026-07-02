@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si utiliza este material, por favor cítelo como se indica a continuación."
+title: "Inteligencia Artificial aplicada al Manejo de Cuencas Hidrográficas e Hidrológicas — Materiales del curso de posgrado"
+type: dataset
+authors:
+  - family-names: "del Valle"
+    given-names: "Héctor Francisco"
+    email: hfdelvalle@gmail.com
+    affiliation: "Centro Regional de Geomática (CeReGeo), FCyT, Universidad Autónoma de Entre Ríos (UADER); LEMIV, Facultad de Ingeniería, UNPSJB"
+version: "2026.1"
+date-released: "2026-07-02"
+abstract: "Materiales teóricos y prácticos (TP1-TP5) del curso de posgrado dictado en la Universidad Nacional del Sur (Bahía Blanca, Argentina, junio de 2026): control de calidad de DTM, pipeline hidrológico, validación de coberturas LULC, superresolución Sentinel-2, SAR en SNAP y simulación de inundación con HEC-RAS 2D, HAND y Orange Data Mining, con integración de asistentes de IA."
+keywords:
+  - inteligencia artificial
+  - hidrología
+  - cuencas hidrográficas
+  - teledetección
+  - QGIS
+  - HEC-RAS
+  - Google Earth Engine
+  - Sentinel
+  - FABDEM
+license: CC-BY-NC-SA-4.0

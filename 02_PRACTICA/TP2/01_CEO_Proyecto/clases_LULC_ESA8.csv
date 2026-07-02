@@ -1,0 +1,9 @@
+clase_id,clase,esa_val,color_hex,n_puntos
+1,Cobertura arbórea,10,006400,50
+2,Matorral/arbustal,20,ffbb22,50
+3,Pastizal/herbáceas,30,ffff4c,50
+4,Cultivos,40,f096ff,50
+5,Construido/urbano,50,fa0000,50
+6,Suelo desnudo/veg. escasa,60,b4b4b4,50
+7,Cuerpos de agua permanentes,80,0064c8,50
+8,Humedal herbáceo,90,0096a0,50

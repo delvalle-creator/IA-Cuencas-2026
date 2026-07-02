@@ -1,0 +1,42 @@
+VALIDACION DE RESULTADOS DE REFERENCIA - TP5 Bahia Blanca
+========================================================================
+Carpeta base: /mnt/data/TP5_SIMULACION_INUNDACION_BAHIA_BLANCA
+
+1) Archivos requeridos
+   [OK] 05_RESULTADOS_REFERENCIA/HAND_Numpy/_dem.npy
+   [OK] 05_RESULTADOS_REFERENCIA/HAND_Numpy/_hand.npy
+   [OK] 05_RESULTADOS_REFERENCIA/HAND_Numpy/_pond.npy
+   [OK] 05_RESULTADOS_REFERENCIA/HAND_Numpy/_pts.npy
+   [OK] 05_RESULTADOS_REFERENCIA/HAND_Numpy/_meta.json
+   [OK] 06_ORANGE_DATA_MINING/Datos/dataset_inundacion_BB.csv
+   [OK] 06_ORANGE_DATA_MINING/Datos/dataset_puntos_BB.csv
+   [OK] 06_ORANGE_DATA_MINING/Datos/estadisticas_resumen.csv
+
+2) Matrices HAND / ponding
+   Shape DEM/HAND/Ponding: (592, 661) / (592, 661) / (592, 661)
+   CRS: EPSG:32720
+   Extension UTM: [555562.48140715, 573099.0956465537, 5705067.680837441, 5720773.695405863]
+   Pixeles validos: 286,897
+   Pixeles inundados en grilla completa (prof > 0.05 m): 7,649 (2.67%)
+   Area valida aprox.: 201.94 km2
+   Area inundada aprox.: 5.38 km2
+   Puntos de validacion: 60
+   Elevacion - min=-0.140, media=28.090, mediana=20.008, max=78.866
+   HAND - min=0.000, media=4.370, mediana=1.859, max=59.264
+   Profundidad/ponding - min=0.000, media=0.009, mediana=0.000, max=7.258
+
+3) Dataset Orange
+   Filas / columnas: 30,000 / 8
+   Inundados en dataset Orange: 7,649 (25.50%)
+   Nota: el dataset de Orange esta submuestreado y enriquecido con todos los pixeles inundados; por eso el porcentaje no coincide con la grilla completa.
+   Puntos con valor inundado=1: 2 de 60
+   Diferencia maxima entre estadisticas calculadas y estadisticas_resumen.csv: 0.00000000
+
+4) Correlaciones principales
+   elevacion_m: elevacion_m=1.000, hand_m=0.375, profundidad_m=-0.004, inundado=-0.086
+   hand_m: elevacion_m=0.375, hand_m=1.000, profundidad_m=-0.172, inundado=-0.293
+   profundidad_m: elevacion_m=-0.004, hand_m=-0.172, profundidad_m=1.000, inundado=0.650
+   inundado: elevacion_m=-0.086, hand_m=-0.293, profundidad_m=0.650, inundado=1.000
+
+5) Conclusion automatica
+   OK: los resultados HAND/Orange incluidos son internamente consistentes.

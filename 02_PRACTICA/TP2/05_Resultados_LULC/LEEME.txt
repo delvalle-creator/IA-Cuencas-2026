@@ -1,0 +1,11 @@
+05_Resultados_LULC
+==================
+Aquí se guardan los RESULTADOS que genera Google Earth Engine:
+
+- Los mapas LULC exportados como GeoTIFF (se descargan del Google Drive,
+  carpeta "TP2_LULC", después de ejecutar las tareas de la pestaña "Tasks"
+  de GEE). Por ejemplo: LULC_Naposta_S2_2025.tif, LULC_Naposta_EMB_2024.tif,
+  LULC_Naposta_EMB_2025.tif.
+- Capturas o copias de las matrices de confusión y las precisiones obtenidas.
+
+Esta carpeta arranca vacía: se completa al final del trabajo.

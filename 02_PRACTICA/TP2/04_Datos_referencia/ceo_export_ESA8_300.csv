@@ -1,0 +1,401 @@
+plotid,sampleid,sample_internal_id,lon,lat,email,flagged,collection_time,analysis_duration,imagery_title,imagery_attributions,imagery_used,sample_geom,confidence,confidence_comment,¿Cuál es la cobertura del suelo en este punto?
+1,1,1153928938,-62.10788879,-38.44038208,,,,,,,,POINT(-62.10788879 -38.44038208),,,
+2,2,1153928939,-62.29717843,-38.78222654,,,,,,,,POINT(-62.29717843 -38.78222654),,,
+3,3,1153928940,-62.29503113,-38.54367318,,,,,,,,POINT(-62.29503113 -38.54367318),,,
+4,4,1153928941,-62.17334455,-38.76825936,,,,,,,,POINT(-62.17334455 -38.76825936),,,
+5,5,1153928942,-61.99411061,-38.0920416,,,,,,,,POINT(-61.99411061 -38.0920416),,,
+6,6,1153928943,-62.18564535,-38.78988321,,,,,,,,POINT(-62.18564535 -38.78988321),,,
+7,7,1153928944,-62.19378793,-38.76209411,,,,,,,,POINT(-62.19378793 -38.76209411),,,
+8,8,1153928945,-62.17339586,-38.78375951,,,,,,,,POINT(-62.17339586 -38.78375951),,,
+9,9,1153928946,-62.2073743,-38.25950228,,,,,,,,POINT(-62.2073743 -38.25950228),,,
+10,10,1153928947,-62.18056824,-38.76065044,,,,,,,,POINT(-62.18056824 -38.76065044),,,
+11,11,1153928948,-62.22843572,-38.68690085,,,,,,,,POINT(-62.22843572 -38.68690085),,,
+12,12,1153928949,-62.20916355,-38.69335061,,,,,,,,POINT(-62.20916355 -38.69335061),,,
+13,13,1153928950,-62.24658581,-38.55670902,,,,,,,,POINT(-62.24658581 -38.55670902),,,
+14,14,1153928951,-62.03439497,-38.34048717,,,,,,,,POINT(-62.03439497 -38.34048717),,,
+15,15,1153928952,-62.2677234,-38.79168801,,,,,,,,POINT(-62.2677234 -38.79168801),,,
+16,16,1153928953,-62.19939405,-38.76510645,,,,,,,,POINT(-62.19939405 -38.76510645),,,
+17,17,1153928954,-62.21749238,-38.75207217,,,,,,,,POINT(-62.21749238 -38.75207217),,,
+18,18,1153928955,-62.26030493,-38.77415892,,,,,,,,POINT(-62.26030493 -38.77415892),,,
+19,19,1153928956,-62.21680687,-38.751617,,,,,,,,POINT(-62.21680687 -38.751617),,,
+20,20,1153928957,-62.22224199,-38.77039731,,,,,,,,POINT(-62.22224199 -38.77039731),,,
+21,21,1153928958,-62.25431887,-38.67454252,,,,,,,,POINT(-62.25431887 -38.67454252),,,
+22,22,1153928959,-62.17671244,-38.14041797,,false,2026-06-16 01:41,323.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17671244 -38.14041797),100,,Suelo desnudo/veg. escasa
+23,23,1153928960,-62.21684415,-38.75873637,,false,2026-06-16 01:45,188.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21684415 -38.75873637),100,,Suelo desnudo/veg. escasa
+24,24,1153928961,-62.24216149,-38.7154674,,false,2026-06-16 01:47,143.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.24216149 -38.7154674),100,,Cobertura arbórea
+25,25,1153928962,-62.04104575,-38.5213214,,false,2026-06-16 01:47,17.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.04104575 -38.5213214),100,,Pastizal/herbáceas
+26,26,1153928963,-61.98990643,-38.10750687,,false,2026-06-16 01:47,10.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-61.98990643 -38.10750687),100,,Suelo desnudo/veg. escasa
+27,27,1153928964,-62.21763106,-38.74991032,,false,2026-06-16 01:48,9.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21763106 -38.74991032),100,,Suelo desnudo/veg. escasa
+28,28,1153928965,-62.16746718,-38.67963386,,false,2026-06-16 01:48,14.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.16746718 -38.67963386),100,,Cobertura arbórea
+29,29,1153928966,-62.27686864,-38.69559123,,false,2026-06-16 01:48,17.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.27686864 -38.69559123),100,,Construido/urbano
+30,30,1153928967,-62.17033843,-38.76940956,,false,2026-06-16 01:49,26.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17033843 -38.76940956),100,,Humedal herbáceo
+31,31,1153928968,-62.18138159,-38.78012101,,false,2026-06-16 01:49,19.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18138159 -38.78012101),100,,Matorral/arbustal
+32,32,1153928969,-62.21754056,-38.75820035,,false,2026-06-16 01:49,19.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21754056 -38.75820035),100,,Cobertura arbórea
+33,33,1153928970,-62.13501956,-38.18256678,,false,2026-06-16 01:50,25.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.13501956 -38.18256678),100,,Pastizal/herbáceas
+34,34,1153928971,-62.21446933,-38.69185439,,false,2026-06-16 01:50,6.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21446933 -38.69185439),100,,Construido/urbano
+35,35,1153928972,-62.2487051,-38.78255576,,false,2026-06-16 01:50,30.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.2487051 -38.78255576),100,,Matorral/arbustal
+36,36,1153928973,-61.98522572,-38.14901353,,false,2026-06-16 01:51,10.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-61.98522572 -38.14901353),100,,Suelo desnudo/veg. escasa
+37,37,1153928974,-62.28081368,-38.70354582,,false,2026-06-16 01:51,5.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28081368 -38.70354582),100,,Construido/urbano
+38,38,1153928975,-62.14190973,-38.74991965,,false,2026-06-16 01:51,12.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.14190973 -38.74991965),100,,Suelo desnudo/veg. escasa
+39,39,1153928976,-62.17650119,-38.68384318,,false,2026-06-16 01:51,12.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17650119 -38.68384318),100,,Pastizal/herbáceas
+40,40,1153928977,-62.24736675,-38.7893959,,false,2026-06-16 01:51,13.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.24736675 -38.7893959),100,,Cuerpos de agua permanentes
+41,41,1153928978,-62.21783118,-38.42458543,,false,2026-06-16 01:52,32.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21783118 -38.42458543),100,,Cultivos
+42,42,1153928979,-62.19966614,-38.78195985,,false,2026-06-16 01:52,13.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19966614 -38.78195985),100,,Matorral/arbustal
+43,43,1153928980,-62.16375595,-38.20575651,,false,2026-06-16 01:52,11.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.16375595 -38.20575651),100,,Cobertura arbórea
+44,44,1153928981,-62.06401273,-38.32414504,,false,2026-06-16 01:53,35.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.06401273 -38.32414504),100,,Matorral/arbustal
+45,45,1153928982,-62.189113,-38.76836983,,false,2026-06-16 01:53,9.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.189113 -38.76836983),100,,Suelo desnudo/veg. escasa
+46,46,1153928983,-62.31654362,-38.74359159,,false,2026-06-16 01:53,10.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.31654362 -38.74359159),100,,Matorral/arbustal
+47,47,1153928984,-62.20028776,-38.74690925,,false,2026-06-16 01:53,11.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20028776 -38.74690925),100,,Cobertura arbórea
+48,48,1153928985,-62.15883627,-38.59188822,,false,2026-06-16 01:54,25.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.15883627 -38.59188822),100,,Suelo desnudo/veg. escasa
+49,49,1153928986,-62.21882455,-38.72486611,,false,2026-06-16 01:54,23.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21882455 -38.72486611),100,,Suelo desnudo/veg. escasa
+50,50,1153928987,-62.06271751,-38.55736383,,false,2026-06-16 01:54,9.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.06271751 -38.55736383),100,,Matorral/arbustal
+51,51,1153928988,-62.21863474,-38.37123919,,false,2026-06-16 01:55,24.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21863474 -38.37123919),100,,Cultivos
+52,52,1153928989,-62.15394137,-38.37250246,,false,2026-06-16 01:55,16.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.15394137 -38.37250246),100,,Cultivos
+53,53,1153928990,-62.19841595,-38.78050944,,false,2026-06-16 01:55,17.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19841595 -38.78050944),100,,Matorral/arbustal
+54,54,1153928991,-62.11880485,-38.29627131,,false,2026-06-16 01:56,10.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.11880485 -38.29627131),100,,Matorral/arbustal
+55,55,1153928992,-62.18667162,-38.71978059,,false,2026-06-16 01:56,31.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18667162 -38.71978059),100,,Construido/urbano
+56,56,1153928993,-62.17258213,-38.77447191,,false,2026-06-16 01:56,9.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17258213 -38.77447191),100,,Matorral/arbustal
+57,57,1153928994,-62.15102573,-38.55308109,,false,2026-06-16 01:56,14.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.15102573 -38.55308109),100,,Matorral/arbustal
+58,58,1153928995,-62.19798879,-38.77753271,,false,2026-06-16 01:57,9.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19798879 -38.77753271),100,,Matorral/arbustal
+59,59,1153928996,-62.28930442,-38.50759082,,false,2026-06-16 01:57,44.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28930442 -38.50759082),100,,Construido/urbano
+60,60,1153928997,-62.10119547,-38.61020411,,false,2026-06-16 01:58,9.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.10119547 -38.61020411),100,,Matorral/arbustal
+61,61,1153928998,-62.22237484,-38.72633164,,false,2026-06-16 01:58,24.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22237484 -38.72633164),100,,Pastizal/herbáceas
+62,62,1153928999,-62.26641189,-38.49176884,,false,2026-06-16 01:58,5.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.26641189 -38.49176884),100,,Matorral/arbustal
+63,63,1153929000,-62.20056899,-38.7835881,,false,2026-06-16 01:58,13.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20056899 -38.7835881),100,,Suelo desnudo/veg. escasa
+64,64,1153929001,-61.99418861,-38.15287582,,false,2026-06-16 01:58,8.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-61.99418861 -38.15287582),100,,Matorral/arbustal
+65,65,1153929002,-62.19900767,-38.77907166,,false,2026-06-16 01:59,22.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19900767 -38.77907166),100,,Matorral/arbustal
+66,66,1153929003,-62.20836695,-38.52536585,,false,2026-06-16 01:59,12.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20836695 -38.52536585),100,,Pastizal/herbáceas
+67,67,1153929004,-62.21504681,-38.76521263,,false,2026-06-16 01:59,15.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21504681 -38.76521263),100,,Pastizal/herbáceas
+68,68,1153929005,-62.1817889,-38.76462407,,false,2026-06-16 01:59,10.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.1817889 -38.76462407),100,,Cuerpos de agua permanentes
+69,69,1153929006,-62.18805857,-38.678517,,false,2026-06-16 02:00,11.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18805857 -38.678517),100,,Cobertura arbórea
+70,70,1153929007,-62.30087412,-38.74566171,,false,2026-06-16 02:00,14.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.30087412 -38.74566171),100,,Construido/urbano
+71,71,1153929008,-62.22492002,-38.67173799,,false,2026-06-16 02:00,22.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22492002 -38.67173799),100,,Pastizal/herbáceas
+72,72,1153929009,-62.30183676,-38.74134189,,false,2026-06-16 02:00,11.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.30183676 -38.74134189),100,,Matorral/arbustal
+73,73,1153929010,-62.29702661,-38.75077524,,false,2026-06-16 02:01,8.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.29702661 -38.75077524),100,,Suelo desnudo/veg. escasa
+74,74,1153929011,-62.06554241,-38.15121214,,false,2026-06-16 02:01,9.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.06554241 -38.15121214),100,,Cobertura arbórea
+75,75,1153929012,-62.18282679,-38.7644511,,false,2026-06-16 02:01,8.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18282679 -38.7644511),100,,Cuerpos de agua permanentes
+76,76,1153929013,-62.28469738,-38.78692692,,false,2026-06-16 02:01,5.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28469738 -38.78692692),100,,Construido/urbano
+77,77,1153929014,-62.08945947,-38.13689002,,false,2026-06-16 02:01,7.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.08945947 -38.13689002),100,,Cobertura arbórea
+78,78,1153929015,-62.08775251,-38.13651628,,false,2026-06-16 02:01,7.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.08775251 -38.13651628),100,,Cobertura arbórea
+79,79,1153929016,-62.21278923,-38.75068885,,false,2026-06-16 02:01,5.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21278923 -38.75068885),100,,Cobertura arbórea
+80,80,1153929017,-62.18078243,-38.69153314,,false,2026-06-16 02:02,20.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18078243 -38.69153314),100,,Pastizal/herbáceas
+81,81,1153929018,-62.15301493,-38.77424162,,false,2026-06-16 02:02,10.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.15301493 -38.77424162),100,,Pastizal/herbáceas
+82,82,1153929019,-62.29447346,-38.7646377,,false,2026-06-16 02:02,15.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.29447346 -38.7646377),100,,Cuerpos de agua permanentes
+83,83,1153929020,-62.21727311,-38.7405359,,false,2026-06-16 02:02,5.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21727311 -38.7405359),100,,Construido/urbano
+84,84,1153929021,-62.24822882,-38.72920423,,false,2026-06-16 02:02,5.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.24822882 -38.72920423),100,,Construido/urbano
+85,85,1153929022,-62.17056863,-38.76941119,,false,2026-06-16 02:03,9.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17056863 -38.76941119),100,,Cuerpos de agua permanentes
+86,86,1153929023,-62.28001236,-38.78338365,,false,2026-06-16 02:03,9.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28001236 -38.78338365),100,,Suelo desnudo/veg. escasa
+87,87,1153929024,-61.99343809,-38.14935458,,false,2026-06-16 02:03,7.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-61.99343809 -38.14935458),100,,Matorral/arbustal
+88,88,1153929025,-62.22110258,-38.26905712,,false,2026-06-16 02:03,13.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22110258 -38.26905712),100,,Cultivos
+89,89,1153929026,-62.30999772,-38.71832057,,false,2026-06-16 02:03,7.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.30999772 -38.71832057),100,,Construido/urbano
+90,90,1153929027,-62.27442973,-38.78893627,,false,2026-06-16 02:03,4.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.27442973 -38.78893627),100,,Construido/urbano
+91,91,1153929028,-62.19867039,-38.77834842,,false,2026-06-16 02:03,8.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19867039 -38.77834842),100,,Pastizal/herbáceas
+92,92,1153929029,-62.21213689,-38.43202728,,false,2026-06-16 02:04,15.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21213689 -38.43202728),100,,Cultivos
+93,93,1153929030,-62.08644178,-38.13181964,,false,2026-06-16 02:04,9.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.08644178 -38.13181964),100,,Pastizal/herbáceas
+94,94,1153929031,-62.16861216,-38.18046622,,false,2026-06-16 02:04,12.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.16861216 -38.18046622),100,,Suelo desnudo/veg. escasa
+95,95,1153929032,-62.24835733,-38.70595507,,false,2026-06-16 02:04,5.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.24835733 -38.70595507),100,,Construido/urbano
+96,96,1153929033,-62.21117624,-38.78221834,,false,2026-06-16 02:04,6.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21117624 -38.78221834),100,,Pastizal/herbáceas
+97,97,1153929034,-62.19857357,-38.7869988,,false,2026-06-16 02:04,5.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19857357 -38.7869988),100,,Pastizal/herbáceas
+98,98,1153929035,-62.06745538,-38.16231256,,false,2026-06-16 02:05,12.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.06745538 -38.16231256),100,,Cultivos
+99,99,1153929036,-62.10468414,-38.43080494,,false,2026-06-16 02:05,23.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.10468414 -38.43080494),100,,Matorral/arbustal
+100,100,1153929037,-62.26717947,-38.5517931,,false,2026-06-16 02:05,6.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.26717947 -38.5517931),100,,Matorral/arbustal
+101,101,1153929038,-62.20134825,-38.41293882,,false,2026-06-16 02:05,17.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20134825 -38.41293882),100,,Matorral/arbustal
+102,102,1153929039,-62.1509232,-38.67870387,,false,2026-06-16 02:06,8.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.1509232 -38.67870387),100,,Cobertura arbórea
+103,103,1153929040,-62.18132441,-38.76498127,,false,2026-06-16 02:06,8.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18132441 -38.76498127),100,,Cuerpos de agua permanentes
+104,104,1153929041,-62.14279686,-38.75271974,,false,2026-06-16 02:06,8.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.14279686 -38.75271974),100,,Pastizal/herbáceas
+105,105,1153929042,-62.03251709,-38.31821182,,false,2026-06-16 02:06,9.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.03251709 -38.31821182),100,,Pastizal/herbáceas
+106,106,1153929043,-62.17461685,-38.76772767,,false,2026-06-16 02:06,9.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17461685 -38.76772767),100,,Cuerpos de agua permanentes
+107,107,1153929044,-62.08291253,-38.49444099,,false,2026-06-16 02:06,15.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.08291253 -38.49444099),100,,Matorral/arbustal
+108,108,1153929045,-62.17173839,-38.76779742,,false,2026-06-16 02:07,16.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17173839 -38.76779742),100,,Cuerpos de agua permanentes
+109,109,1153929046,-62.08057253,-38.57922378,,false,2026-06-16 02:07,10.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.08057253 -38.57922378),100,,Pastizal/herbáceas
+110,110,1153929047,-62.12549614,-38.16735544,,false,2026-06-16 02:07,10.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.12549614 -38.16735544),100,,Pastizal/herbáceas
+111,111,1153929048,-62.27113558,-38.65995944,,false,2026-06-16 02:07,5.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.27113558 -38.65995944),100,,Construido/urbano
+112,112,1153929049,-62.11526743,-38.21080849,,false,2026-06-16 02:07,11.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.11526743 -38.21080849),100,,Cultivos
+113,113,1153929050,-62.21175954,-38.75014122,,false,2026-06-16 02:08,10.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21175954 -38.75014122),100,,Cobertura arbórea
+114,114,1153929051,-62.18086301,-38.76506816,,false,2026-06-16 02:08,6.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18086301 -38.76506816),100,,Cuerpos de agua permanentes
+115,115,1153929052,-62.18887208,-38.31984799,,false,2026-06-16 02:08,17.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18887208 -38.31984799),100,,Pastizal/herbáceas
+116,116,1153929053,-62.2037467,-38.74630206,,false,2026-06-16 02:08,9.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.2037467 -38.74630206),100,,Cobertura arbórea
+117,117,1153929054,-62.25126641,-38.74679633,,false,2026-06-16 02:08,5.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.25126641 -38.74679633),100,,Construido/urbano
+118,118,1153929055,-62.21326237,-38.74952054,,false,2026-06-16 02:09,23.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21326237 -38.74952054),100,,Cobertura arbórea
+119,119,1153929056,-62.08220801,-38.55896015,,false,2026-06-16 02:09,10.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.08220801 -38.55896015),100,,Matorral/arbustal
+120,120,1153929057,-62.20726586,-38.7298348,,false,2026-06-16 02:09,6.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20726586 -38.7298348),100,,Construido/urbano
+121,121,1153929058,-62.1811447,-38.76056437,,false,2026-06-16 02:09,5.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.1811447 -38.76056437),100,,Pastizal/herbáceas
+122,122,1153929059,-62.17225505,-38.78285028,,false,2026-06-16 02:09,4.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17225505 -38.78285028),100,,Pastizal/herbáceas
+123,123,1153929060,-62.15792003,-38.77806189,,false,2026-06-16 02:09,6.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.15792003 -38.77806189),100,,Pastizal/herbáceas
+124,124,1153929061,-62.25091933,-38.74697434,,false,2026-06-16 02:09,14.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.25091933 -38.74697434),100,,Pastizal/herbáceas
+125,125,1153929062,-62.28761744,-38.72485495,,false,2026-06-16 02:10,8.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28761744 -38.72485495),100,,Construido/urbano
+126,126,1153929063,-62.20162721,-38.7816128,,false,2026-06-16 02:10,4.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20162721 -38.7816128),100,,Matorral/arbustal
+127,127,1153929064,-62.18799044,-38.34759939,,false,2026-06-16 02:10,9.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18799044 -38.34759939),100,,Pastizal/herbáceas
+128,128,1153929065,-62.28309798,-38.76267604,,false,2026-06-16 02:10,5.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28309798 -38.76267604),100,,Construido/urbano
+129,129,1153929066,-62.24713554,-38.78948453,,false,2026-06-16 02:10,5.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.24713554 -38.78948453),100,,Cuerpos de agua permanentes
+130,130,1153929067,-62.13861408,-38.25541276,,false,2026-06-16 02:10,9.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.13861408 -38.25541276),100,,Cultivos
+131,131,1153929068,-62.09803231,-38.44976917,,false,2026-06-16 02:10,11.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.09803231 -38.44976917),100,,Pastizal/herbáceas
+132,132,1153929069,-61.98604447,-38.14757863,,false,2026-06-16 02:11,11.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-61.98604447 -38.14757863),100,,Matorral/arbustal
+133,133,1153929070,-62.14929161,-38.11381605,,false,2026-06-16 02:11,11.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.14929161 -38.11381605),100,,Cultivos
+134,134,1153929071,-62.06551527,-38.56288337,,false,2026-06-16 02:11,27.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.06551527 -38.56288337),100,,Matorral/arbustal
+135,135,1153929072,-62.22377126,-38.65037265,,false,2026-06-16 02:12,10.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22377126 -38.65037265),100,,Suelo desnudo/veg. escasa
+136,136,1153929073,-62.11242481,-38.52837275,,false,2026-06-16 02:12,20.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.11242481 -38.52837275),100,,Matorral/arbustal
+137,137,1153929074,-62.21025578,-38.74039858,,false,2026-06-16 02:12,8.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21025578 -38.74039858),100,,Cobertura arbórea
+138,138,1153929075,-62.1538684,-38.57491025,,false,2026-06-16 02:12,5.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.1538684 -38.57491025),100,,Matorral/arbustal
+139,139,1153929076,-62.28519981,-38.50513261,,false,2026-06-16 02:12,4.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28519981 -38.50513261),100,,Matorral/arbustal
+140,140,1153929077,-62.20325895,-38.77982164,,false,2026-06-16 02:12,7.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20325895 -38.77982164),100,,Pastizal/herbáceas
+141,141,1153929078,-62.23636891,-38.77337416,,false,2026-06-16 02:12,10.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.23636891 -38.77337416),100,,Suelo desnudo/veg. escasa
+142,142,1153929079,-62.2000256,-38.7807007,,false,2026-06-16 02:13,11.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.2000256 -38.7807007),100,,Humedal herbáceo
+143,143,1153929080,-62.25300604,-38.75653996,,false,2026-06-16 02:13,4.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.25300604 -38.75653996),100,,Construido/urbano
+144,144,1153929081,-62.17185348,-38.76779823,,false,2026-06-16 02:13,9.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17185348 -38.76779823),100,,Cuerpos de agua permanentes
+145,145,1153929082,-62.18110453,-38.76407858,,false,2026-06-16 02:13,9.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18110453 -38.76407858),100,,Matorral/arbustal
+146,146,1153929083,-62.17266228,-38.76753361,,false,2026-06-16 02:13,8.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17266228 -38.76753361),100,,Cuerpos de agua permanentes
+147,147,1153929084,-62.27620741,-38.77254629,,false,2026-06-16 02:13,11.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.27620741 -38.77254629),100,,Construido/urbano
+148,148,1153929085,-62.21328842,-38.75763111,,false,2026-06-16 02:14,10.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21328842 -38.75763111),100,,Matorral/arbustal
+149,149,1153929086,-62.15941898,-38.26502652,,false,2026-06-16 02:14,11.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.15941898 -38.26502652),100,,Matorral/arbustal
+150,150,1153929087,-62.20766882,-38.74542755,,false,2026-06-16 02:14,17.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20766882 -38.74542755),100,,Suelo desnudo/veg. escasa
+151,151,1153929088,-62.18915788,-38.76440508,,false,2026-06-16 02:14,9.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18915788 -38.76440508),100,,Suelo desnudo/veg. escasa
+152,152,1153929089,-62.27736721,-38.78309698,,false,2026-06-16 02:14,8.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.27736721 -38.78309698),100,,Construido/urbano
+153,153,1153929090,-62.18017761,-38.76461277,,false,2026-06-16 02:15,12.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18017761 -38.76461277),100,,Suelo desnudo/veg. escasa
+154,154,1153929091,-62.16013466,-38.77573484,,false,2026-06-16 02:15,7.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.16013466 -38.77573484),100,,Matorral/arbustal
+155,155,1153929092,-62.29108106,-38.51354948,,false,2026-06-16 02:15,8.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.29108106 -38.51354948),100,,Matorral/arbustal
+156,156,1153929093,-62.25527698,-38.71519121,,false,2026-06-16 02:15,17.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.25527698 -38.71519121),100,,Pastizal/herbáceas
+157,157,1153929094,-62.29154318,-38.74668692,,false,2026-06-16 02:15,7.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.29154318 -38.74668692),100,,Construido/urbano
+158,158,1153929095,-62.30739419,-38.72587495,,false,2026-06-16 02:15,7.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.30739419 -38.72587495),100,,Construido/urbano
+159,159,1153929096,-62.18631975,-38.79132975,,false,2026-06-16 02:16,6.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18631975 -38.79132975),100,,Suelo desnudo/veg. escasa
+160,160,1153929097,-62.29290978,-38.72479697,,false,2026-06-16 02:16,4.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.29290978 -38.72479697),100,,Construido/urbano
+161,161,1153929098,-62.21731039,-38.7581988,,false,2026-06-16 02:16,8.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21731039 -38.7581988),100,,Cobertura arbórea
+162,162,1153929099,-62.28968199,-38.78353294,,false,2026-06-16 02:16,6.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28968199 -38.78353294),100,,Construido/urbano
+163,163,1153929100,-62.22153759,-38.68685513,,false,2026-06-16 02:16,4.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22153759 -38.68685513),100,,Construido/urbano
+164,164,1153929101,-62.21169704,-38.69300725,,false,2026-06-16 02:16,6.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21169704 -38.69300725),100,,Pastizal/herbáceas
+165,165,1153929102,-62.28064412,-38.77780038,,false,2026-06-16 02:16,6.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28064412 -38.77780038),100,,Cuerpos de agua permanentes
+166,166,1153929103,-62.17248633,-38.7827618,,false,2026-06-16 02:16,8.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17248633 -38.7827618),100,,Pastizal/herbáceas
+167,167,1153929104,-62.14808695,-38.69490416,,false,2026-06-16 02:17,12.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.14808695 -38.69490416),100,,Cultivos
+168,168,1153929105,-62.11137159,-38.13660722,,false,2026-06-16 02:17,9.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.11137159 -38.13660722),100,,Pastizal/herbáceas
+169,169,1153929106,-62.21486387,-38.73988893,,false,2026-06-16 02:17,20.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21486387 -38.73988893),100,,Construido/urbano
+170,170,1153929107,-62.27565057,-38.72514189,,false,2026-06-16 02:17,5.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.27565057 -38.72514189),100,,Construido/urbano
+171,171,1153929108,-62.19776281,-38.2292457,,false,2026-06-16 02:17,9.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19776281 -38.2292457),100,,Cultivos
+172,172,1153929109,-62.13349378,-38.32080375,,false,2026-06-16 02:18,25.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.13349378 -38.32080375),100,,Matorral/arbustal
+173,173,1153929110,-62.17547543,-38.76313785,,false,2026-06-16 02:18,11.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17547543 -38.76313785),100,,Matorral/arbustal
+174,174,1153929111,-62.07471082,-38.57079666,,false,2026-06-16 02:18,5.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.07471082 -38.57079666),100,,Matorral/arbustal
+175,175,1153929112,-62.12627393,-38.60687948,,false,2026-06-16 02:18,10.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.12627393 -38.60687948),100,,Cultivos
+176,176,1153929113,-62.29182528,-38.71812179,,false,2026-06-16 02:18,8.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.29182528 -38.71812179),100,,Cobertura arbórea
+177,177,1153929114,-62.27031398,-38.77476253,,false,2026-06-16 02:19,7.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.27031398 -38.77476253),100,,Construido/urbano
+178,178,1153929115,-62.06445004,-38.41462954,,false,2026-06-16 02:19,17.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.06445004 -38.41462954),100,,Pastizal/herbáceas
+179,179,1153929116,-62.19799275,-38.76689915,,false,2026-06-16 02:19,5.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19799275 -38.76689915),100,,Pastizal/herbáceas
+180,180,1153929117,-62.20321682,-38.43052504,,false,2026-06-16 02:19,11.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20321682 -38.43052504),100,,Suelo desnudo/veg. escasa
+181,181,1153929118,-62.20651975,-38.253999,,false,2026-06-16 02:19,12.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20651975 -38.253999),100,,Cultivos
+182,182,1153929119,-62.17334247,-38.76843958,,false,2026-06-16 02:19,6.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17334247 -38.76843958),100,,Cuerpos de agua permanentes
+183,183,1153929120,-62.23725894,-38.71138029,,false,2026-06-16 02:20,19.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.23725894 -38.71138029),100,,Cuerpos de agua permanentes
+184,184,1153929121,-62.28910694,-38.50434532,,false,2026-06-16 02:20,17.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28910694 -38.50434532),100,,Suelo desnudo/veg. escasa
+185,185,1153929122,-62.19859071,-38.78546696,,false,2026-06-16 02:20,9.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19859071 -38.78546696),100,,Pastizal/herbáceas
+186,186,1153929123,-62.18663813,-38.76330618,,false,2026-06-16 02:20,8.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18663813 -38.76330618),100,,Suelo desnudo/veg. escasa
+187,187,1153929124,-62.17570042,-38.77359279,,false,2026-06-16 02:20,6.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17570042 -38.77359279),100,,Suelo desnudo/veg. escasa
+188,188,1153929125,-61.99476188,-38.10277194,,false,2026-06-16 02:21,8.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-61.99476188 -38.10277194),100,,Suelo desnudo/veg. escasa
+189,189,1153929126,-62.0886071,-38.57027486,,false,2026-06-16 02:21,20.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.0886071 -38.57027486),100,,Pastizal/herbáceas
+190,190,1153929127,-62.19485222,-38.65702607,,false,2026-06-16 02:21,8.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19485222 -38.65702607),100,,Cultivos
+191,191,1153929128,-62.21178839,-38.75798147,,false,2026-06-16 02:21,13.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21178839 -38.75798147),100,,Construido/urbano
+192,192,1153929129,-62.21734088,-38.70268762,,false,2026-06-16 02:21,7.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21734088 -38.70268762),100,,Construido/urbano
+193,193,1153929130,-62.12656968,-38.16348809,,false,2026-06-16 02:22,9.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.12656968 -38.16348809),100,,Pastizal/herbáceas
+194,194,1153929131,-62.20216967,-38.7845903,,false,2026-06-16 02:22,5.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20216967 -38.7845903),100,,Pastizal/herbáceas
+195,195,1153929132,-62.06844716,-38.31733113,,false,2026-06-16 02:22,6.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.06844716 -38.31733113),100,,Pastizal/herbáceas
+196,196,1153929133,-62.28763571,-38.71142772,,false,2026-06-16 02:22,7.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28763571 -38.71142772),100,,Cobertura arbórea
+197,197,1153929134,-62.17774479,-38.34284167,,false,2026-06-16 02:22,18.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17774479 -38.34284167),100,,Pastizal/herbáceas
+198,198,1153929135,-62.16556791,-38.77379123,,false,2026-06-16 02:22,8.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.16556791 -38.77379123),100,,Pastizal/herbáceas
+199,199,1153929136,-62.2280405,-38.63805484,,false,2026-06-16 02:23,11.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.2280405 -38.63805484),100,,Matorral/arbustal
+200,200,1153929137,-62.20103351,-38.78323082,,false,2026-06-16 02:26,210.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20103351 -38.78323082),100,,Matorral/arbustal
+201,201,1153929138,-62.17312787,-38.76708633,,false,2026-06-16 02:26,7.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17312787 -38.76708633),100,,Cuerpos de agua permanentes
+202,202,1153929139,-62.05569492,-38.55901962,,false,2026-06-16 02:26,10.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.05569492 -38.55901962),100,,Matorral/arbustal
+203,203,1153929140,-62.18991425,-38.68727117,,false,2026-06-16 02:27,17.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18991425 -38.68727117),100,,Pastizal/herbáceas
+204,204,1153929141,-62.22267165,-38.75201661,,false,2026-06-16 02:27,14.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22267165 -38.75201661),100,,Pastizal/herbáceas
+205,205,1153929142,-62.19887239,-38.78087303,,false,2026-06-16 02:27,6.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19887239 -38.78087303),100,,Matorral/arbustal
+206,206,1153929143,-62.21830281,-38.75162701,,false,2026-06-16 02:28,42.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21830281 -38.75162701),100,,Cuerpos de agua permanentes
+207,207,1153929144,-62.16436967,-38.67907107,,false,2026-06-16 02:28,10.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.16436967 -38.67907107),100,,Matorral/arbustal
+208,208,1153929145,-62.18154945,-38.76543343,,false,2026-06-16 02:28,7.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18154945 -38.76543343),100,,Cuerpos de agua permanentes
+209,209,1153929146,-62.16070033,-38.44140312,,false,2026-06-16 02:28,13.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.16070033 -38.44140312),100,,Pastizal/herbáceas
+210,210,1153929147,-62.19647798,-38.78905705,,false,2026-06-16 02:29,5.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19647798 -38.78905705),100,,Matorral/arbustal
+211,211,1153929148,-62.2362269,-38.77589646,,false,2026-06-16 02:29,8.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.2362269 -38.77589646),100,,Matorral/arbustal
+212,212,1153929149,-62.28382966,-38.70095095,,false,2026-06-16 02:29,6.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28382966 -38.70095095),100,,Cobertura arbórea
+213,213,1153929150,-62.26279381,-38.78958436,,false,2026-06-16 02:29,8.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.26279381 -38.78958436),100,,Construido/urbano
+214,214,1153929151,-62.1977257,-38.71877558,,false,2026-06-16 02:29,5.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.1977257 -38.71877558),100,,Construido/urbano
+215,215,1153929152,-62.2278114,-38.27243601,,false,2026-06-16 02:29,21.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.2278114 -38.27243601),100,,Cultivos
+216,216,1153929153,-62.19783845,-38.3574003,,false,2026-06-16 02:30,16.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19783845 -38.3574003),100,,Pastizal/herbáceas
+217,217,1153929154,-62.07463382,-38.55890052,,false,2026-06-16 02:30,8.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.07463382 -38.55890052),100,,Pastizal/herbáceas
+218,218,1153929155,-62.29435089,-38.51933688,,false,2026-06-16 02:30,7.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.29435089 -38.51933688),100,,Suelo desnudo/veg. escasa
+219,219,1153929156,-62.20004808,-38.78899143,,false,2026-06-16 02:30,15.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20004808 -38.78899143),100,,Pastizal/herbáceas
+220,220,1153929157,-62.0872303,-38.13263688,,false,2026-06-16 02:30,7.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.0872303 -38.13263688),100,,Cobertura arbórea
+221,221,1153929158,-62.20187151,-38.78035286,,false,2026-06-16 02:31,12.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20187151 -38.78035286),100,,Suelo desnudo/veg. escasa
+222,222,1153929159,-62.21716192,-38.75071822,,false,2026-06-16 02:31,9.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21716192 -38.75071822),100,,Matorral/arbustal
+223,223,1153929160,-62.22875657,-38.7319611,,false,2026-06-16 02:31,8.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22875657 -38.7319611),100,,Cobertura arbórea
+224,224,1153929161,-62.30016214,-38.71249465,,false,2026-06-16 02:31,28.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.30016214 -38.71249465),100,,Construido/urbano
+225,225,1153929162,-62.20390604,-38.34680731,,false,2026-06-16 02:32,17.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20390604 -38.34680731),100,,Pastizal/herbáceas
+226,226,1153929163,-62.12176591,-38.47716556,,false,2026-06-16 02:32,21.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.12176591 -38.47716556),100,,Pastizal/herbáceas
+227,227,1153929164,-62.17660434,-38.58444468,,false,2026-06-16 02:32,24.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17660434 -38.58444468),100,,Cultivos
+228,228,1153929165,-62.20914158,-38.70578652,,false,2026-06-16 02:33,11.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20914158 -38.70578652),100,,Construido/urbano
+229,229,1153929166,-62.25711506,-38.70429882,,false,2026-06-16 02:33,5.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.25711506 -38.70429882),100,,Construido/urbano
+230,230,1153929167,-62.30517294,-38.71766118,,false,2026-06-16 02:33,7.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.30517294 -38.71766118),100,,Cobertura arbórea
+231,231,1153929168,-62.21325545,-38.7501513,,false,2026-06-16 02:33,27.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21325545 -38.7501513),100,,Humedal herbáceo
+232,232,1153929169,-62.21772548,-38.75180338,,false,2026-06-16 02:34,11.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21772548 -38.75180338),100,,Cuerpos de agua permanentes
+233,233,1153929170,-62.2097608,-38.74354929,,false,2026-06-16 02:34,7.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.2097608 -38.74354929),100,,Cobertura arbórea
+234,234,1153929171,-62.12318504,-38.6153274,,false,2026-06-16 02:34,14.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.12318504 -38.6153274),100,,Pastizal/herbáceas
+235,235,1153929172,-62.00888581,-38.12947851,,false,2026-06-16 02:34,7.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.00888581 -38.12947851),100,,Suelo desnudo/veg. escasa
+236,236,1153929173,-62.22680873,-38.70986979,,false,2026-06-16 02:34,10.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22680873 -38.70986979),100,,Pastizal/herbáceas
+237,237,1153929174,-62.19696389,-38.42615658,,false,2026-06-16 02:34,12.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19696389 -38.42615658),100,,Pastizal/herbáceas
+238,238,1153929175,-62.29352242,-38.52194535,,false,2026-06-16 02:35,7.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.29352242 -38.52194535),100,,Matorral/arbustal
+239,239,1153929176,-62.17171338,-38.76996,,false,2026-06-16 02:35,6.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17171338 -38.76996),100,,Cuerpos de agua permanentes
+240,240,1153929177,-62.19524531,-38.77580166,,false,2026-06-16 02:35,14.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19524531 -38.77580166),100,,Pastizal/herbáceas
+241,241,1153929178,-62.22632464,-38.61596471,,false,2026-06-16 02:35,9.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22632464 -38.61596471),100,,Suelo desnudo/veg. escasa
+242,242,1153929179,-62.22736179,-38.27171207,,false,2026-06-16 02:35,11.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22736179 -38.27171207),100,,Cultivos
+243,243,1153929180,-62.1731729,-38.78312712,,false,2026-06-16 02:35,10.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.1731729 -38.78312712),100,,Suelo desnudo/veg. escasa
+244,244,1153929181,-62.25114116,-38.65956279,,false,2026-06-16 02:36,9.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.25114116 -38.65956279),100,,Pastizal/herbáceas
+245,245,1153929182,-62.10670955,-38.43379435,,false,2026-06-16 02:36,8.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.10670955 -38.43379435),100,,Pastizal/herbáceas
+246,246,1153929183,-62.17056655,-38.76959141,,false,2026-06-16 02:36,6.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17056655 -38.76959141),100,,Cuerpos de agua permanentes
+247,247,1153929184,-62.20677639,-38.70126468,,false,2026-06-16 02:36,7.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20677639 -38.70126468),100,,Cobertura arbórea
+248,248,1153929185,-62.22278451,-38.709753,,false,2026-06-16 02:36,6.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22278451 -38.709753),100,,Pastizal/herbáceas
+249,249,1153929186,-62.16801028,-38.74190785,,false,2026-06-16 02:36,6.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.16801028 -38.74190785),100,,Construido/urbano
+250,250,1153929187,-62.18650564,-38.76483722,,false,2026-06-16 02:36,12.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18650564 -38.76483722),100,,Pastizal/herbáceas
+251,251,1153929188,-62.21350573,-38.75880407,,false,2026-06-16 02:37,8.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21350573 -38.75880407),100,,Construido/urbano
+252,252,1153929189,-62.26496466,-38.72390368,,false,2026-06-16 02:37,8.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.26496466 -38.72390368),100,,Cobertura arbórea
+253,253,1153929190,-62.20232195,-38.78125709,,false,2026-06-16 02:37,6.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20232195 -38.78125709),100,,Matorral/arbustal
+254,254,1153929191,-62.22305457,-38.69542629,,false,2026-06-16 02:37,5.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22305457 -38.69542629),100,,Construido/urbano
+255,255,1153929192,-62.30603809,-38.74713433,,false,2026-06-16 02:37,6.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.30603809 -38.74713433),100,,Matorral/arbustal
+256,256,1153929193,-62.2838196,-38.78259601,,false,2026-06-16 02:37,5.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.2838196 -38.78259601),100,,Construido/urbano
+257,257,1153929194,-62.170666,-38.77094384,,false,2026-06-16 02:37,6.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.170666 -38.77094384),100,,Matorral/arbustal
+258,258,1153929195,-62.20582417,-38.32834535,,false,2026-06-16 02:37,15.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20582417 -38.32834535),100,,Suelo desnudo/veg. escasa
+259,259,1153929196,-62.19958325,-38.7790756,,false,2026-06-16 02:38,10.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19958325 -38.7790756),100,,Suelo desnudo/veg. escasa
+260,260,1153929197,-62.1797481,-38.48966194,,false,2026-06-16 02:38,12.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.1797481 -38.48966194),100,,Cultivos
+261,261,1153929198,-62.16413347,-38.67961008,,false,2026-06-16 02:38,5.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.16413347 -38.67961008),100,,Matorral/arbustal
+262,262,1153929199,-62.262491,-38.60628529,,false,2026-06-16 02:38,8.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.262491 -38.60628529),100,,Cultivos
+263,263,1153929200,-62.15946881,-38.73436716,,false,2026-06-16 02:38,8.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.15946881 -38.73436716),100,,Construido/urbano
+264,264,1153929201,-62.21795661,-38.75171481,,false,2026-06-16 02:38,7.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21795661 -38.75171481),100,,Cuerpos de agua permanentes
+265,265,1153929202,-62.11038948,-38.67479791,,false,2026-06-16 02:39,11.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.11038948 -38.67479791),100,,Cultivos
+266,266,1153929203,-62.21613337,-38.78162089,,false,2026-06-16 02:39,4.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21613337 -38.78162089),100,,Matorral/arbustal
+267,267,1153929204,-61.97829886,-38.09740274,,false,2026-06-16 02:39,7.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-61.97829886 -38.09740274),100,,Pastizal/herbáceas
+268,268,1153929205,-62.04852,-38.17009154,,false,2026-06-16 02:39,6.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.04852 -38.17009154),100,,Matorral/arbustal
+269,269,1153929206,-62.30027168,-38.73664649,,false,2026-06-16 02:39,9.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.30027168 -38.73664649),100,,Suelo desnudo/veg. escasa
+270,270,1153929207,-62.20004695,-38.67562577,,false,2026-06-16 02:39,6.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20004695 -38.67562577),100,,Matorral/arbustal
+271,271,1153929208,-62.28897083,-38.73919167,,false,2026-06-16 02:39,5.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28897083 -38.73919167),100,,Construido/urbano
+272,272,1153929209,-62.14076116,-38.10194761,,false,2026-06-16 02:39,8.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.14076116 -38.10194761),100,,Cobertura arbórea
+273,273,1153929210,-62.20642408,-38.74352668,,false,2026-06-16 02:40,7.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20642408 -38.74352668),100,,Cobertura arbórea
+274,274,1153929211,-62.17654978,-38.77981672,,false,2026-06-16 02:40,6.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17654978 -38.77981672),100,,Matorral/arbustal
+275,275,1153929212,-62.28108016,-38.7113876,,false,2026-06-16 02:40,7.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28108016 -38.7113876),100,,Cobertura arbórea
+276,276,1153929213,-62.2596676,-38.54570787,,false,2026-06-16 02:40,7.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.2596676 -38.54570787),100,,Matorral/arbustal
+277,277,1153929214,-61.98564679,-38.11035414,,false,2026-06-16 02:40,8.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-61.98564679 -38.11035414),100,,Matorral/arbustal
+278,278,1153929215,-62.21683414,-38.77018096,,false,2026-06-16 02:40,6.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21683414 -38.77018096),100,,Matorral/arbustal
+279,279,1153929216,-62.15889409,-38.76374062,,false,2026-06-16 02:40,7.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.15889409 -38.76374062),100,,Pastizal/herbáceas
+280,280,1153929217,-62.22570269,-38.75906574,,false,2026-06-16 02:40,8.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.22570269 -38.75906574),100,,Suelo desnudo/veg. escasa
+281,281,1153929218,-62.29871215,-38.7549307,,false,2026-06-16 02:41,5.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.29871215 -38.7549307),100,,Suelo desnudo/veg. escasa
+282,282,1153929219,-62.16898347,-38.77705971,,false,2026-06-16 02:41,26.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.16898347 -38.77705971),100,,Pastizal/herbáceas
+283,283,1153929220,-62.15981585,-38.26034299,,false,2026-06-16 02:41,10.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.15981585 -38.26034299),100,,Suelo desnudo/veg. escasa
+284,284,1153929221,-62.19958023,-38.77934592,,false,2026-06-16 02:42,19.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19958023 -38.77934592),100,,Suelo desnudo/veg. escasa
+285,285,1153929222,-62.14254328,-38.22254667,,false,2026-06-16 02:42,7.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.14254328 -38.22254667),100,,Suelo desnudo/veg. escasa
+286,286,1153929223,-62.19138662,-38.78109182,,false,2026-06-16 02:42,10.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19138662 -38.78109182),100,,Matorral/arbustal
+287,287,1153929224,-62.21306888,-38.69373742,,false,2026-06-16 02:42,6.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21306888 -38.69373742),100,,Construido/urbano
+288,288,1153929225,-62.17355291,-38.77015325,,false,2026-06-16 02:42,6.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17355291 -38.77015325),100,,Suelo desnudo/veg. escasa
+289,289,1153929226,-62.16762203,-38.77533783,,false,2026-06-16 02:42,12.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.16762203 -38.77533783),100,,Humedal herbáceo
+290,290,1153929227,-62.07966598,-38.43412578,,false,2026-06-16 02:43,12.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.07966598 -38.43412578),100,,Suelo desnudo/veg. escasa
+291,291,1153929228,-62.21257752,-38.78042549,,false,2026-06-16 02:43,4.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21257752 -38.78042549),100,,Matorral/arbustal
+292,292,1153929229,-62.19940365,-38.78484173,,false,2026-06-16 02:43,8.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.19940365 -38.78484173),100,,Humedal herbáceo
+293,293,1153929230,-62.20357623,-38.78234702,,false,2026-06-16 02:43,3.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20357623 -38.78234702),100,,Suelo desnudo/veg. escasa
+294,294,1153929231,-62.21842083,-38.75135746,,false,2026-06-16 02:43,8.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21842083 -38.75135746),100,,Cuerpos de agua permanentes
+295,295,1153929232,-62.29145909,-38.73190737,,false,2026-06-16 02:43,6.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.29145909 -38.73190737),100,,Construido/urbano
+296,296,1153929233,-62.09552388,-38.57708734,,false,2026-06-16 02:43,7.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.09552388 -38.57708734),100,,Cultivos
+297,297,1153929234,-62.24593426,-38.77235488,,false,2026-06-16 02:43,8.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.24593426 -38.77235488),100,,Suelo desnudo/veg. escasa
+298,298,1153929235,-62.20070323,-38.78187683,,false,2026-06-16 02:43,4.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20070323 -38.78187683),100,,Matorral/arbustal
+299,299,1153929236,-62.06112645,-38.18407201,,false,2026-06-16 02:44,14.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.06112645 -38.18407201),100,,Pastizal/herbáceas
+300,300,1153929237,-62.17730962,-38.76378158,,false,2026-06-16 02:44,4.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17730962 -38.76378158),100,,Matorral/arbustal
+301,301,1153929238,-62.26829389,-38.66814236,,false,2026-06-16 02:44,4.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.26829389 -38.66814236),100,,Cobertura arbórea
+302,302,1153929239,-62.18236334,-38.7647182,,false,2026-06-16 02:44,7.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.18236334 -38.7647182),100,,Cuerpos de agua permanentes
+303,303,1153929240,-62.28324825,-38.71311312,,false,2026-06-16 02:44,5.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.28324825 -38.71311312),100,,Construido/urbano
+304,304,1153929241,-62.27774743,-38.76823027,,false,2026-06-16 02:44,5.0 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.27774743 -38.76823027),100,,Cobertura arbórea
+305,305,1153929242,-62.20324209,-38.77099024,,false,2026-06-16 02:44,11.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.20324209 -38.77099024),100,,Suelo desnudo/veg. escasa
+306,306,1153929243,-62.2755448,-38.55301671,,false,2026-06-16 02:44,5.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.2755448 -38.55301671),100,,Suelo desnudo/veg. escasa
+307,307,1153929244,-62.17625315,-38.77557922,,false,2026-06-16 02:45,4.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17625315 -38.77557922),100,,Suelo desnudo/veg. escasa
+308,308,1153929245,-62.16957993,-38.77526165,,false,2026-06-16 02:45,5.5 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.16957993 -38.77526165),100,,Matorral/arbustal
+309,309,1153929246,-62.17127174,-38.7683348,,false,2026-06-16 02:45,6.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17127174 -38.7683348),100,,Cuerpos de agua permanentes
+310,310,1153929247,-62.17207118,-38.76888116,,false,2026-06-16 02:45,6.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17207118 -38.76888116),100,,Cuerpos de agua permanentes
+311,311,1153929248,-62.30608088,-38.73082356,,false,2026-06-16 02:45,6.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.30608088 -38.73082356),100,,Cobertura arbórea
+312,312,1153929249,-62.12611593,-38.70501524,,false,2026-06-16 02:45,9.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.12611593 -38.70501524),100,,Cultivos
+313,313,1153929250,-62.2733862,-38.49379495,,false,2026-06-16 02:45,13.1 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.2733862 -38.49379495),100,,Matorral/arbustal
+314,314,1153929251,-62.21351958,-38.75754255,,false,2026-06-16 02:46,10.7 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21351958 -38.75754255),100,,Pastizal/herbáceas
+315,315,1153929252,-62.11917201,-38.7179398,,false,2026-06-16 02:46,7.4 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.11917201 -38.7179398),100,,Cultivos
+316,316,1153929253,-62.31124047,-38.72067092,,false,2026-06-16 02:46,5.8 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.31124047 -38.72067092),100,,Construido/urbano
+317,317,1153929254,-62.30207842,-38.75197702,,false,2026-06-16 02:46,7.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.30207842 -38.75197702),100,,Construido/urbano
+318,318,1153929255,-62.21860254,-38.73468726,,false,2026-06-16 02:46,7.2 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21860254 -38.73468726),100,,Construido/urbano
+319,319,1153929256,-62.24508314,-38.67826818,,false,2026-06-16 02:46,5.9 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.24508314 -38.67826818),100,,Cobertura arbórea
+320,320,1153929257,-62.21597474,-38.75404454,,false,2026-06-16 02:48,120.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.21597474 -38.75404454),100,,Pastizal/herbáceas
+321,321,1153929258,-62.17017878,-38.65387977,,false,2026-06-16 02:48,10.6 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.17017878 -38.65387977),100,,Matorral/arbustal
+322,322,1153929259,-62.27633243,-38.70315771,,false,2026-06-16 02:48,5.3 secs,CEO: Mapbox Satellite,,[CEO: Mapbox Satellite],POINT(-62.27633243 -38.70315771),100,,Construido/urbano
+323,323,1153929260,-62.2178376,-38.75207448,,,,,,,,POINT(-62.2178376 -38.75207448),,,
+324,324,1153929261,-62.15826961,-38.77770395,,,,,,,,POINT(-62.15826961 -38.77770395),,,
+325,325,1153929262,-62.18179508,-38.76408342,,,,,,,,POINT(-62.18179508 -38.76408342),,,
+326,326,1153929263,-62.29454223,-38.54673428,,,,,,,,POINT(-62.29454223 -38.54673428),,,
+327,327,1153929264,-62.23088438,-38.73738207,,,,,,,,POINT(-62.23088438 -38.73738207),,,
+328,328,1153929265,-62.32470353,-38.72020876,,,,,,,,POINT(-62.32470353 -38.72020876),,,
+329,329,1153929266,-62.21911059,-38.41215731,,,,,,,,POINT(-62.21911059 -38.41215731),,,
+330,330,1153929267,-62.19612955,-38.789325,,,,,,,,POINT(-62.19612955 -38.789325),,,
+331,331,1153929268,-62.09573556,-38.5968247,,,,,,,,POINT(-62.09573556 -38.5968247),,,
+332,332,1153929269,-62.21777367,-38.75793156,,,,,,,,POINT(-62.21777367 -38.75793156),,,
+333,333,1153929270,-62.2158215,-38.69438673,,,,,,,,POINT(-62.2158215 -38.69438673),,,
+334,334,1153929271,-62.19296228,-38.72297824,,,,,,,,POINT(-62.19296228 -38.72297824),,,
+335,335,1153929272,-62.19980056,-38.52197322,,,,,,,,POINT(-62.19980056 -38.52197322),,,
+336,336,1153929273,-62.06381111,-38.40200765,,,,,,,,POINT(-62.06381111 -38.40200765),,,
+337,337,1153929274,-62.20413091,-38.76351673,,,,,,,,POINT(-62.20413091 -38.76351673),,,
+338,338,1153929275,-62.21313741,-38.75042085,,,,,,,,POINT(-62.21313741 -38.75042085),,,
+339,339,1153929276,-62.20045588,-38.7834071,,,,,,,,POINT(-62.20045588 -38.7834071),,,
+340,340,1153929277,-62.11655616,-38.29310012,,,,,,,,POINT(-62.11655616 -38.29310012),,,
+341,341,1153929278,-62.21418621,-38.78070666,,,,,,,,POINT(-62.21418621 -38.78070666),,,
+342,342,1153929279,-62.28041207,-38.77797919,,,,,,,,POINT(-62.28041207 -38.77797919),,,
+343,343,1153929280,-62.26470353,-38.78301798,,,,,,,,POINT(-62.26470353 -38.78301798),,,
+344,344,1153929281,-62.24752705,-38.69738866,,,,,,,,POINT(-62.24752705 -38.69738866),,,
+345,345,1153929282,-61.98813993,-38.13633127,,,,,,,,POINT(-61.98813993 -38.13633127),,,
+346,346,1153929283,-62.27081696,-38.54388535,,,,,,,,POINT(-62.27081696 -38.54388535),,,
+347,347,1153929284,-62.25979524,-38.74549891,,,,,,,,POINT(-62.25979524 -38.74549891),,,
+348,348,1153929285,-62.22805663,-38.73285764,,,,,,,,POINT(-62.22805663 -38.73285764),,,
+349,349,1153929286,-62.21280606,-38.749157,,,,,,,,POINT(-62.21280606 -38.749157),,,
+350,350,1153929287,-62.13923018,-38.71430434,,,,,,,,POINT(-62.13923018 -38.71430434),,,
+351,351,1153929288,-62.16273703,-38.7500707,,,,,,,,POINT(-62.16273703 -38.7500707),,,
+352,352,1153929289,-62.17338337,-38.7848408,,,,,,,,POINT(-62.17338337 -38.7848408),,,
+353,353,1153929290,-62.10987315,-38.23167625,,,,,,,,POINT(-62.10987315 -38.23167625),,,
+354,354,1153929291,-62.19912804,-38.78889502,,,,,,,,POINT(-62.19912804 -38.78889502),,,
+355,355,1153929292,-62.20321917,-38.24226063,,,,,,,,POINT(-62.20321917 -38.24226063),,,
+356,356,1153929293,-62.17829443,-38.7882998,,,,,,,,POINT(-62.17829443 -38.7882998),,,
+357,357,1153929294,-62.03864521,-38.21786642,,,,,,,,POINT(-62.03864521 -38.21786642),,,
+358,358,1153929295,-62.22495078,-38.76473803,,,,,,,,POINT(-62.22495078 -38.76473803),,,
+359,359,1153929296,-62.30125306,-38.57660387,,,,,,,,POINT(-62.30125306 -38.57660387),,,
+360,360,1153929297,-62.04247022,-38.17004236,,,,,,,,POINT(-62.04247022 -38.17004236),,,
+361,361,1153929298,-62.07541516,-38.27304638,,,,,,,,POINT(-62.07541516 -38.27304638),,,
+362,362,1153929299,-62.20382261,-38.77054362,,,,,,,,POINT(-62.20382261 -38.77054362),,,
+363,363,1153929300,-62.07278245,-38.55113574,,,,,,,,POINT(-62.07278245 -38.55113574),,,
+364,364,1153929301,-62.18235647,-38.64414278,,,,,,,,POINT(-62.18235647 -38.64414278),,,
+365,365,1153929302,-62.250832,-38.77734273,,,,,,,,POINT(-62.250832 -38.77734273),,,
+366,366,1153929303,-62.21578305,-38.75052875,,,,,,,,POINT(-62.21578305 -38.75052875),,,
+367,367,1153929304,-62.12943063,-38.18207485,,,,,,,,POINT(-62.12943063 -38.18207485),,,
+368,368,1153929305,-62.19117165,-38.7797386,,,,,,,,POINT(-62.19117165 -38.7797386),,,
+369,369,1153929306,-62.19912178,-38.77916255,,,,,,,,POINT(-62.19912178 -38.77916255),,,
+370,370,1153929307,-62.20780625,-38.29339134,,,,,,,,POINT(-62.20780625 -38.29339134),,,
+371,371,1153929308,-62.23581312,-38.51185007,,,,,,,,POINT(-62.23581312 -38.51185007),,,
+372,372,1153929309,-62.32950173,-38.72375092,,,,,,,,POINT(-62.32950173 -38.72375092),,,
+373,373,1153929310,-62.207303,-38.69523046,,,,,,,,POINT(-62.207303 -38.69523046),,,
+374,374,1153929311,-62.16942495,-38.76877226,,,,,,,,POINT(-62.16942495 -38.76877226),,,
+375,375,1153929312,-62.19978899,-38.77096665,,,,,,,,POINT(-62.19978899 -38.77096665),,,
+376,376,1153929313,-62.16789936,-38.77128463,,,,,,,,POINT(-62.16789936 -38.77128463),,,
+377,377,1153929314,-62.26401652,-38.74904009,,,,,,,,POINT(-62.26401652 -38.74904009),,,
+378,378,1153929315,-62.21050953,-38.68597016,,,,,,,,POINT(-62.21050953 -38.68597016),,,
+379,379,1153929316,-62.18188407,-38.78652269,,,,,,,,POINT(-62.18188407 -38.78652269),,,
+380,380,1153929317,-62.26780918,-38.7720434,,,,,,,,POINT(-62.26780918 -38.7720434),,,
+381,381,1153929318,-62.18493608,-38.79150033,,,,,,,,POINT(-62.18493608 -38.79150033),,,
+382,382,1153929319,-62.22788771,-38.69509784,,,,,,,,POINT(-62.22788771 -38.69509784),,,
+383,383,1153929320,-62.10785175,-38.51779413,,,,,,,,POINT(-62.10785175 -38.51779413),,,
+384,384,1153929321,-62.28992438,-38.51453379,,,,,,,,POINT(-62.28992438 -38.51453379),,,
+385,385,1153929322,-62.17374019,-38.78385206,,,,,,,,POINT(-62.17374019 -38.78385206),,,
+386,386,1153929323,-62.26200635,-38.72073098,,,,,,,,POINT(-62.26200635 -38.72073098),,,
+387,387,1153929324,-62.17472143,-38.23602544,,,,,,,,POINT(-62.17472143 -38.23602544),,,
+388,388,1153929325,-62.08595908,-38.24356888,,,,,,,,POINT(-62.08595908 -38.24356888),,,
+389,389,1153929326,-62.17312371,-38.76744677,,,,,,,,POINT(-62.17312371 -38.76744677),,,
+390,390,1153929327,-62.0134163,-38.12347835,,,,,,,,POINT(-62.0134163 -38.12347835),,,
+391,391,1153929328,-62.08678795,-38.45085362,,,,,,,,POINT(-62.08678795 -38.45085362),,,
+392,392,1153929329,-62.28007095,-38.74319242,,,,,,,,POINT(-62.28007095 -38.74319242),,,
+393,393,1153929330,-62.31242284,-38.72932906,,,,,,,,POINT(-62.31242284 -38.72932906),,,
+394,394,1153929331,-62.21770536,-38.69034411,,,,,,,,POINT(-62.21770536 -38.69034411),,,
+395,395,1153929332,-62.04726024,-38.51109865,,,,,,,,POINT(-62.04726024 -38.51109865),,,
+396,396,1153929333,-62.20468525,-38.33834115,,,,,,,,POINT(-62.20468525 -38.33834115),,,
+397,397,1153929334,-62.2861902,-38.76422694,,,,,,,,POINT(-62.2861902 -38.76422694),,,
+398,398,1153929335,-62.20256323,-38.78026747,,,,,,,,POINT(-62.20256323 -38.78026747),,,
+399,399,1153929336,-62.19961548,-38.77619214,,,,,,,,POINT(-62.19961548 -38.77619214),,,
+400,400,1153929337,-62.08079831,-38.13601145,,,,,,,,POINT(-62.08079831 -38.13601145),,,

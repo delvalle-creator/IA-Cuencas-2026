@@ -1,0 +1,2 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.34.0" styleCategories="AllStyleCategories"><pipe><rasterrenderer type="singlebandgray" band="1" grayBand="1" gradient="BlackToWhite" opacity="1" alphaBand="-1" nodataColor=""><contrastEnhancement><minValue>0</minValue><maxValue>255</maxValue><algorithm>StretchToMinimumMaximum</algorithm></contrastEnhancement></rasterrenderer><blendMode>0</blendMode></pipe><layerGeometryType>2</layerGeometryType></qgis>

@@ -1,0 +1,19 @@
+Parametro;Valor;Unidad
+Área de la cuenca;1404.0;km²
+Perímetro;316.6;km
+Cota máxima;1234.8;m
+Cota mínima;0.5;m
+Cota media;190.7;m
+Relieve;1234.3;m
+Pendiente media cuenca;1.88;°
+Pendiente media cuenca;3.4;%
+Longitud total de cauces;1539.0;km
+Densidad de drenaje;1.096;km/km²
+Orden de la cuenca (Strahler);6;-
+Longitud cauce principal;114.76;km
+Pendiente media cauce principal;0.94;%
+Coef. compacidad Gravelius (Kc);2.38;-
+Factor de forma (Rf);0.107;-
+Razón de elongación (Re);0.368;-
+Tc Kirpich;923;min
+Tc Témez;26.75;h

@@ -1,0 +1,438 @@
+[
+  {
+    "path": "00_LEER_PRIMERO/00_INICIO_AQUI.md",
+    "size": 947
+  },
+  {
+    "path": "00_LEER_PRIMERO/01_MAPA_DE_CARPETAS.md",
+    "size": 454
+  },
+  {
+    "path": "00_LEER_PRIMERO/02_FLUJO_DE_TRABAJO.md",
+    "size": 427
+  },
+  {
+    "path": "00_LEER_PRIMERO/03_LISTA_DE_VERIFICACION.md",
+    "size": 553
+  },
+  {
+    "path": "00_LEER_PRIMERO/04_NOTA_ARCHIVO_COMPRIMIDO_Y_RUTAS.md",
+    "size": 520
+  },
+  {
+    "path": "00_LEER_PRIMERO/05_MANIFIESTO_ARCHIVOS.json",
+    "size": 10702
+  },
+  {
+    "path": "01_DOCUMENTOS/00_Practico_Inundacion_BahiaBlanca_TP5_ESTUDIANTES.docx",
+    "size": 6809714
+  },
+  {
+    "path": "01_DOCUMENTOS/00_Practico_Inundacion_BahiaBlanca_TP5_ESTUDIANTES.pdf",
+    "size": 1881818
+  },
+  {
+    "path": "01_DOCUMENTOS/01_Guia_Inicio_TP5.docx",
+    "size": 38268
+  },
+  {
+    "path": "01_DOCUMENTOS/02_Informe_Complemento_Orange_BB.docx",
+    "size": 201075
+  },
+  {
+    "path": "01_DOCUMENTOS/03_FAQ_Errores_Frecuentes.docx",
+    "size": 37619
+  },
+  {
+    "path": "02_DATOS_BASE/DEM/FABDEM_BB_UTM20S.qml",
+    "size": 2383
+  },
+  {
+    "path": "02_DATOS_BASE/DEM/FABDEM_BB_UTM20S.tif",
+    "size": 1566814
+  },
+  {
+    "path": "02_DATOS_BASE/DEM/FABDEM_BB_UTM20S.tif.aux.xml",
+    "size": 386
+  },
+  {
+    "path": "02_DATOS_BASE/DEM/FABDEM_hillshade.qml",
+    "size": 1464
+  },
+  {
+    "path": "02_DATOS_BASE/DEM/FABDEM_hillshade.tif",
+    "size": 397272
+  },
+  {
+    "path": "02_DATOS_BASE/DEM/MDE_Ar_BB_UTM20S.qml",
+    "size": 2383
+  },
+  {
+    "path": "02_DATOS_BASE/DEM/MDE_Ar_BB_UTM20S.tif",
+    "size": 1665682
+  },
+  {
+    "path": "02_DATOS_BASE/Lluvia_Caudal/LEEME.md",
+    "size": 560
+  },
+  {
+    "path": "02_DATOS_BASE/Lluvia_Caudal/caudal_Naposta_evento.csv",
+    "size": 1036
+  },
+  {
+    "path": "02_DATOS_BASE/Lluvia_Caudal/hietograma_evento_BB.csv",
+    "size": 1091
+  },
+  {
+    "path": "02_DATOS_BASE/Proyeccion/EPSG_32720.prj",
+    "size": 409
+  },
+  {
+    "path": "02_DATOS_BASE/Puntos_Validacion/dataset_puntos_BB.csv",
+    "size": 2192
+  },
+  {
+    "path": "03_HEC_RAS/LEEME_HEC_RAS.md",
+    "size": 1187
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.b01",
+    "size": 2699
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.b02",
+    "size": 2688
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.g01",
+    "size": 313
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.g01.hdf",
+    "size": 9496
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.g02",
+    "size": 100422
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.g02.hdf",
+    "size": 495653
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.p01",
+    "size": 6280
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.p01.hdf",
+    "size": 12872
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.p02",
+    "size": 6269
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.p02.hdf",
+    "size": 12872
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.prj",
+    "size": 616
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.rasmap",
+    "size": 12029
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.u01",
+    "size": 4216
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.u01.hdf",
+    "size": 16101
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.u02",
+    "size": 4530
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.u02.hdf",
+    "size": 16101
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/BahiaBlanca_2025.x02",
+    "size": 2534
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/EPSG_32720.prj",
+    "size": 409
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/Terrain/Terrain.FABDEM_BB_UTM20S.tif",
+    "size": 836232
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/Terrain/Terrain.hdf",
+    "size": 119161
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/Terrain/Terrain.vrt",
+    "size": 3138
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/huella_2D_utm.cpg",
+    "size": 4
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/huella_2D_utm.dbf",
+    "size": 485
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/huella_2D_utm.prj",
+    "size": 409
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/huella_2D_utm.shp",
+    "size": 2142764
+  },
+  {
+    "path": "03_HEC_RAS/Proyecto_HEC_RAS/huella_2D_utm.shx",
+    "size": 108
+  },
+  {
+    "path": "04_QGIS/Capas_Vectoriales/huella_2D_utm.cpg",
+    "size": 4
+  },
+  {
+    "path": "04_QGIS/Capas_Vectoriales/huella_2D_utm.dbf",
+    "size": 485
+  },
+  {
+    "path": "04_QGIS/Capas_Vectoriales/huella_2D_utm.prj",
+    "size": 409
+  },
+  {
+    "path": "04_QGIS/Capas_Vectoriales/huella_2D_utm.shp",
+    "size": 2142764
+  },
+  {
+    "path": "04_QGIS/Capas_Vectoriales/huella_2D_utm.shx",
+    "size": 108
+  },
+  {
+    "path": "04_QGIS/Capas_Vectoriales/malla_2D_HEC_RAS_real.gpkg",
+    "size": 2068480
+  },
+  {
+    "path": "04_QGIS/Capas_Vectoriales/malla_2D_propuesta_tierra_adentro.gpkg",
+    "size": 3248128
+  },
+  {
+    "path": "04_QGIS/Capas_Vectoriales/zonas_recomendacion_remallado_TP5.gpkg",
+    "size": 163840
+  },
+  {
+    "path": "04_QGIS/Figuras/croquis_malla_propuesta.png",
+    "size": 856358
+  },
+  {
+    "path": "04_QGIS/Figuras/diagrama_decision_recalculo_malla.png",
+    "size": 138527
+  },
+  {
+    "path": "04_QGIS/Figuras/malla_2D_HEC_RAS_real.png",
+    "size": 386304
+  },
+  {
+    "path": "04_QGIS/LEEME_QGIS.md",
+    "size": 609
+  },
+  {
+    "path": "05_RESULTADOS_REFERENCIA/HAND_Numpy/_dem.npy",
+    "size": 1565376
+  },
+  {
+    "path": "05_RESULTADOS_REFERENCIA/HAND_Numpy/_hand.npy",
+    "size": 1565376
+  },
+  {
+    "path": "05_RESULTADOS_REFERENCIA/HAND_Numpy/_meta.json",
+    "size": 142
+  },
+  {
+    "path": "05_RESULTADOS_REFERENCIA/HAND_Numpy/_pond.npy",
+    "size": 1565376
+  },
+  {
+    "path": "05_RESULTADOS_REFERENCIA/HAND_Numpy/_pts.npy",
+    "size": 1088
+  },
+  {
+    "path": "05_RESULTADOS_REFERENCIA/HEC_RAS_EXPORTAR_AQUI/README_EXPORTACION_HEC_RAS.md",
+    "size": 338
+  },
+  {
+    "path": "05_RESULTADOS_REFERENCIA/RESUMEN_RESULTADOS_REFERENCIA.md",
+    "size": 771
+  },
+  {
+    "path": "05_RESULTADOS_REFERENCIA/VALIDACION_RESULTADOS_REFERENCIA.txt",
+    "size": 2124
+  },
+  {
+    "path": "06_ORANGE_DATA_MINING/Datos/dataset_inundacion_BB.csv",
+    "size": 1514362
+  },
+  {
+    "path": "06_ORANGE_DATA_MINING/Datos/dataset_puntos_BB.csv",
+    "size": 2192
+  },
+  {
+    "path": "06_ORANGE_DATA_MINING/Datos/estadisticas_resumen.csv",
+    "size": 337
+  },
+  {
+    "path": "06_ORANGE_DATA_MINING/Datos/puntos_validacion_BB.csv",
+    "size": 1635
+  },
+  {
+    "path": "06_ORANGE_DATA_MINING/Figuras/01_hist_profundidad.png",
+    "size": 32358
+  },
+  {
+    "path": "06_ORANGE_DATA_MINING/Figuras/02_barras_clases.png",
+    "size": 23039
+  },
+  {
+    "path": "06_ORANGE_DATA_MINING/Figuras/03_scatter_hand_prof.png",
+    "size": 39744
+  },
+  {
+    "path": "06_ORANGE_DATA_MINING/Figuras/04_correlacion.png",
+    "size": 52213
+  },
+  {
+    "path": "06_ORANGE_DATA_MINING/Figuras/05_box_elev_inundado.png",
+    "size": 23438
+  },
+  {
+    "path": "06_ORANGE_DATA_MINING/Figuras/06_roc.png",
+    "size": 42804
+  },
+  {
+    "path": "06_ORANGE_DATA_MINING/Proyecto_Orange/Analisis_Inundacion_BB.ows",
+    "size": 3591
+  },
+  {
+    "path": "06_ORANGE_DATA_MINING/README_Orange.md",
+    "size": 1049
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/01_QGIS_cargar_dem.py",
+    "size": 638
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/02_QGIS_reproyectar_utm20s.py",
+    "size": 797
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/03_QGIS_generar_hillshade.py",
+    "size": 551
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/04_QGIS_cargar_resultado_y_puntos.py",
+    "size": 979
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/05_Python_reproyectar_dem.py",
+    "size": 1294
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/06_Python_generar_prj.py",
+    "size": 683
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/07_Python_analisis_HAND_y_figuras.py",
+    "size": 12048
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/08_HECRAS_controller_avanzado.py",
+    "size": 874
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/09_Orange_construir_dataset.py",
+    "size": 3262
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/10_Orange_estadisticas_y_graficos.py",
+    "size": 3048
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/11_Python_validar_resultados_tp5.py",
+    "size": 4891
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/12_Prompts_por_paso_Inundacion_BB.docx",
+    "size": 39061
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/README_SCRIPTS_Y_PROMPTS.md",
+    "size": 907
+  },
+  {
+    "path": "07_SCRIPTS_Y_PROMPTS/requirements.txt",
+    "size": 253
+  },
+  {
+    "path": "08_ESTILOS_QML/LEEME_estilos.md",
+    "size": 446
+  },
+  {
+    "path": "08_ESTILOS_QML/estilo_DEM_elevacion_comun.qml",
+    "size": 2383
+  },
+  {
+    "path": "08_ESTILOS_QML/estilo_hillshade.qml",
+    "size": 1464
+  },
+  {
+    "path": "08_ESTILOS_QML/estilo_profundidad_HECRAS.qml",
+    "size": 2266
+  },
+  {
+    "path": "09_VIDEOS_GUIAS/00_Guia_Inicio_HEC_RAS_2025_ES_con_figuras.pdf",
+    "size": 20891756
+  },
+  {
+    "path": "09_VIDEOS_GUIAS/README_VIDEOS_OPCIONALES.txt",
+    "size": 297
+  },
+  {
+    "path": "09_VIDEOS_GUIAS/README_VIDEOS_RAS_MAPPER.md",
+    "size": 5422
+  },
+  {
+    "path": "10_BIBLIOGRAFIA/2025_Extreme_Precipitation_Low_Lying_Urban_Flooding_BB.pdf",
+    "size": 19934208
+  },
+  {
+    "path": "10_BIBLIOGRAFIA/BIBLIOGRAFIA_APA_ORIENTATIVA.md",
+    "size": 456
+  },
+  {
+    "path": "10_BIBLIOGRAFIA/Informe_INA_Evento_de_Bahia_Blanca_07Marzo2025.pdf",
+    "size": 8907164
+  },
+  {
+    "path": "11_ERRORES_FRECUENTES/FAQ_ERRORES_FRECUENTES.md",
+    "size": 1857
+  },
+  {
+    "path": "11_ERRORES_FRECUENTES/README_FAQ.md",
+    "size": 193
+  },
+  {
+    "path": "README_ESTRUCTURA.md",
+    "size": 768
+  }
+]

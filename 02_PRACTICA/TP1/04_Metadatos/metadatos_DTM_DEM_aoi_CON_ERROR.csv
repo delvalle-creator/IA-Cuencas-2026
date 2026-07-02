@@ -1,0 +1,4 @@
+﻿archivo,formato,CRS,EPSG,ancho_px,alto_px,total_px,res_grados,res_arcseg,res_m_EO,res_m_NS,oeste,sur,este,norte,bandas,tipo_dato,NoData,registro_pixel,compresion,tiled,tamano_MB,px_validos,elev_min,elev_max,elev_media,elev_std
+aoi_FABDEM_v12.tif,GTiff,EPSG:4326,4326,1907,2907,5543649,0.0002777778,1.0,24.25,30.83,-62.40279,-38.835093,-61.873067,-38.027593,1,float32,-32767.0,Point,ninguna,False,29.15,5543649,-0.09,1234.4,197.02,143.86
+aoi_MDE_Ar_v21.tif,GTiff,EPSG:4326,4326,2449,3735,9147015,0.0002162391,0.7785,18.88,24.0,-62.40279,-38.835246,-61.87322,-38.027593,1,float32,-32767.0,Point,ninguna,False,48.08,9147015,-29.9,1233.67,197.45,144.14
+aoi_TanDEMX_EDEM.tif,GTiff,EPSG:4326,4326,1907,2907,5543649,0.0002777778,1.0,24.25,30.83,-62.40279,-38.835093,-61.873067,-38.027593,1,float32,-32767.0,Point,ninguna,False,29.15,5543649,-11.61,1234.88,197.06,143.84

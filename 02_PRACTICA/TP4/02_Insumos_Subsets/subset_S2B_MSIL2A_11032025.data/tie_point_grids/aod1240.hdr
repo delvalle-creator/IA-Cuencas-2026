@@ -1,0 +1,15 @@
+ENVI
+description = {Total Aerosol Optical Depth at 1240nm at surface level provided by CAMS - Unit: ~}
+samples = 7
+lines = 3
+bands = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+byte order = 1
+band names = { aod1240 }
+map info = {UTM,3219.0,1532.0,565120.0,5706800.000000001,10.0,10.0,20,South,World Geodetic System 1984,units=Meters}
+coordinate system string = {PROJCS["WGS 84 / UTM zone 20S", GEOGCS["WGS 84", DATUM["World Geodetic System 1984", SPHEROID["WGS 84", 6378137.0, 298.257223563, AUTHORITY["EPSG","7030"]], AUTHORITY["EPSG","6326"]], PRIMEM["Greenwich", 0.0, AUTHORITY["EPSG","8901"]], UNIT["degree", 0.017453292519943295], AXIS["Geodetic longitude", EAST], AXIS["Geodetic latitude", NORTH], AUTHORITY["EPSG","4326"]], PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], PARAMETER["central_meridian", -63.0], PARAMETER["latitude_of_origin", 0.0], PARAMETER["scale_factor", 0.9996], PARAMETER["false_easting", 500000.0], PARAMETER["false_northing", 10000000.0], UNIT["m", 1.0], AXIS["Easting", EAST], AXIS["Northing", NORTH], AUTHORITY["EPSG","32720"]]}
+data gain values = {1.0}
+data offset values = {0.0}

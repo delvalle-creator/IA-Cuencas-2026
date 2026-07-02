@@ -1,0 +1,28 @@
+# Archivos pesados distribuidos por Releases/Zenodo (límite GitHub: 100 MB)
+*.SAFE.zip
+TP3_S2DR4_Resultados.zip
+SNAP_RGB_READY_geotiffs_profiles.zip
+
+# TanDEM-X EDEM: no redistribuible (licencia DLR) — cada usuario lo descarga
+aoi_TanDEMX_EDEM.tif
+
+# Temporales de QGIS
+*.qgz~
+*.qgs~
+*.aux.xml
+
+# Temporales de HEC-RAS
+*.bco*
+*.IC.O*
+*.log
+Backup/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store

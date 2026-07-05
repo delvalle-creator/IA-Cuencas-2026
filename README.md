@@ -1,5 +1,7 @@
 # Inteligencia Artificial aplicada al Manejo de Cuencas Hidrográficas e Hidrológicas
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21199671.svg)](https://doi.org/10.5281/zenodo.21199671)
+
 **Curso de Posgrado** · Departamento de Geografía y Turismo, Universidad Nacional del Sur (UNS)
 Bahía Blanca, Argentina · 18 al 26 de junio de 2026
 

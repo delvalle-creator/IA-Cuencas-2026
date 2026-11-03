@@ -5,10 +5,11 @@ type: dataset
 authors:
   - family-names: "del Valle"
     given-names: "Héctor Francisco"
+    orcid: "https://orcid.org/0000-0002-3329-1057"
     email: hfdelvalle@gmail.com
-    affiliation: "Centro Regional de Geomática (CeReGeo), FCyT, Universidad Autónoma de Entre Ríos (UADER); LEMIV, Facultad de Ingeniería, UNPSJB"
-version: "2026.1"
-date-released: "2026-07-02"
+    affiliation: "Centro Regional de Geomática (CeReGeo), Facultad de Ciencia y Tecnología (FCyT), Universidad Autónoma de Entre Ríos (UADER); Laboratorio de Ecología, Meteorología y Gestión de Fuegos (LEMIV), Facultad de Ingeniería, Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB)"
+version: "1.0.0"
+date-released: "2026-07-05"
 abstract: "Materiales teóricos y prácticos (TP1-TP5) del curso de posgrado dictado en la Universidad Nacional del Sur (Bahía Blanca, Argentina, junio de 2026): control de calidad de DTM, pipeline hidrológico, validación de coberturas LULC, superresolución Sentinel-2, SAR en SNAP y simulación de inundación con HEC-RAS 2D, HAND y Orange Data Mining, con integración de asistentes de IA."
 keywords:
   - inteligencia artificial
@@ -22,3 +23,10 @@ keywords:
   - FABDEM
 license: CC-BY-NC-SA-4.0
 doi: "10.5281/zenodo.21199671"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21199671"
+    description: "DOI de concepto (todas las versiones)"
+  - type: doi
+    value: "10.5281/zenodo.21199672"
+    description: "DOI de la versión 1.0.0"

@@ -32,8 +32,8 @@ identifiers:
     description: "DOI de la versión 1.0.0"
 preferred-citation:
   type: generic
-  medium: "Material de curso"
-  title: "Inteligencia Artificial aplicada al Manejo de Cuencas Hidrográficas e Hidrológicas — Materiales del curso de posgrado"
+  medium: "Materiales del Curso de Posgrado dictado en junio de 2026"
+  title: "Inteligencia Artificial aplicada al Manejo de Cuencas Hidrográficas e Hidrológicas"
   authors:
     - family-names: "del Valle"
       given-names: "Héctor Francisco"
@@ -41,6 +41,8 @@ preferred-citation:
       affiliation: "Centro Regional de Geomática (CeReGeo), Facultad de Ciencia y Tecnología (FCyT), Universidad Autónoma de Entre Ríos (UADER); Laboratorio de Ecología, Meteorología y Gestión de Fuegos (LEMIV), Facultad de Ingeniería, Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB)"
   version: "1.0.0"
   year: 2026
+  month: 7
+  date-published: 2026-07-05
   publisher:
     name: "Zenodo"
   doi: 10.5281/zenodo.21199672

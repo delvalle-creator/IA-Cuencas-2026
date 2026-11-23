@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "Si utiliza este material, por favor cítelo como se indica a continuación."
-title: "Inteligencia Artificial aplicada al Manejo de Cuencas Hidrográficas e Hidrológicas — Materiales del curso de posgrado"
+title: "Inteligencia Artificial aplicada al Manejo de Cuencas Hidrográficas e Hidrológicas. Curso de posgrado, Bahía Blanca (Bs. As.), Argentina, 2026"
 type: dataset
 authors:
   - family-names: "del Valle"
@@ -33,7 +33,7 @@ identifiers:
 preferred-citation:
   type: generic
   medium: "Materiales del Curso de Posgrado dictado en junio de 2026"
-  title: "Inteligencia Artificial aplicada al Manejo de Cuencas Hidrográficas e Hidrológicas"
+  title: "Inteligencia Artificial aplicada al Manejo de Cuencas Hidrográficas e Hidrológicas. Curso de posgrado, Bahía Blanca (Bs. As.), Argentina, 2026"
   authors:
     - family-names: "del Valle"
       given-names: "Héctor Francisco"

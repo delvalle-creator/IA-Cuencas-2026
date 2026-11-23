@@ -1,0 +1,34 @@
+{
+  "upload_type": "lesson",
+  "title": "Inteligencia Artificial aplicada al Manejo de Cuencas Hidrográficas e Hidrológicas — Materiales del curso de posgrado",
+  "creators": [
+    {
+      "name": "del Valle, Héctor Francisco",
+      "affiliation": "Centro Regional de Geomática (CeReGeo), Facultad de Ciencia y Tecnología (FCyT), Universidad Autónoma de Entre Ríos (UADER); Laboratorio de Ecología, Meteorología y Gestión de Fuegos (LEMIV), Facultad de Ingeniería, Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB)",
+      "orcid": "0000-0002-3329-1057"
+    }
+  ],
+  "description": "<p>Materiales teóricos y prácticos (TP1-TP5) del curso de posgrado dictado en la Universidad Nacional del Sur (Bahía Blanca, Argentina, junio de 2026): control de calidad de DTM, pipeline hidrológico, validación de coberturas LULC, superresolución Sentinel-2, SAR en SNAP y simulación de inundación con HEC-RAS 2D, HAND y Orange Data Mining, con integración de asistentes de IA.</p>",
+  "license": "cc-by-nc-sa-4.0",
+  "access_right": "open",
+  "language": "spa",
+  "keywords": [
+    "inteligencia artificial",
+    "hidrología",
+    "cuencas hidrográficas",
+    "teledetección",
+    "QGIS",
+    "HEC-RAS",
+    "Google Earth Engine",
+    "Sentinel",
+    "FABDEM"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/delvalle-creator/IA-Cuencas-2026",
+      "relation": "isSupplementTo",
+      "resource_type": "lesson",
+      "scheme": "url"
+    }
+  ]
+}

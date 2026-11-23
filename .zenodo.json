@@ -8,7 +8,7 @@
       "orcid": "0000-0002-3329-1057"
     }
   ],
-  "description": "<p>Materiales teóricos y prácticos (TP1-TP5) del curso de posgrado dictado en la Universidad Nacional del Sur (Bahía Blanca, Argentina, junio de 2026): control de calidad de DTM, pipeline hidrológico, validación de coberturas LULC, superresolución Sentinel-2, SAR en SNAP y simulación de inundación con HEC-RAS 2D, HAND y Orange Data Mining, con integración de asistentes de IA.</p>",
+  "description": "<p>Materiales teóricos y prácticos (TP1-TP5) del curso de posgrado dictado en la Universidad Nacional del Sur (Bahía Blanca, Argentina, junio de 2026): control de calidad de DTM, pipeline hidrológico, validación de coberturas LULC, superresolución Sentinel-2, SAR en SNAP y simulación de inundación con HEC-RAS 2D, HAND y Orange Data Mining, con integración de asistentes de IA.</p><p>Curso de posgrado dictado en el Departamento de Geografía y Turismo, Universidad Nacional del Sur (UNS), Bahía Blanca (Bs. As.), Argentina.</p>",
   "license": "cc-by-nc-sa-4.0",
   "access_right": "open",
   "language": "spa",
@@ -29,6 +29,12 @@
       "relation": "isSupplementTo",
       "resource_type": "lesson",
       "scheme": "url"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Departamento de Geografía y Turismo, Universidad Nacional del Sur (UNS)",
+      "type": "HostingInstitution"
     }
   ]
 }
